@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="nl">
 <head>
 <meta charset="UTF-8">
@@ -46,14 +45,14 @@
 </style>
 </head>
 <body>
-  <h1>🧩 Ravi’s Rijmpjeslijst (500 stuks!)</h1>
+  <h1>🧩 Ravi’s Rijmpjeslijst (390 stuks!)</h1>
 
   <div id="rhymeListContainer"></div>
 
   <footer>© 2025 Ravi’s Rijmproject 🎵</footer>
 
   <script>
-    const RIJMPJES_500 = [
+    const RIJMPJES_390 = [
       "maan staan", "boot groot", "dag lach", "huis muis", "beer meer",
       "kat mat", "peer sfeer", "blad stad", "stoel koel", "glas was",
       "hand zand", "vloer boer", "neus reus", "been teen", "oog droog",
