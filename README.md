@@ -52,7 +52,7 @@
   <footer>© 2025 Ravi’s Rijmproject 🎵</footer>
 
   <script>
-    const RIJMPJES_390 = [
+    const RIJMPJES_500 = [
       "maan staan", "boot groot", "dag lach", "huis muis", "beer meer",
       "kat mat", "peer sfeer", "blad stad", "stoel koel", "glas was",
       "hand zand", "vloer boer", "neus reus", "been teen", "oog droog",
